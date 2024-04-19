@@ -1,0 +1,40 @@
+body {
+    background-color: #c0c0c0;
+}
+
+
+.box1 {
+    position: fixed;
+    top: 30%;
+    left: 30%;
+    width: 150px;
+    height: 150px;
+    background-color: darkgreen;
+}
+
+/* .box1:before {
+    position: absolute;
+    content: '';
+    top: -40px;
+    left: 23px;
+    color: #2f8946;
+    font: 400 24px Arial
+}
+
+.box1:after {
+    position: absolute;
+    content: '';
+    top: 20px;
+    left: -72px;
+    color: #2f8946;
+    font: 400 24px Arial
+} */
+
+.box2 {
+    position: fixed;
+    top: 35%;
+    left: 60%;
+    width: 150px;
+    height: 150px;
+    background-color: darkgoldenrod;
+}
